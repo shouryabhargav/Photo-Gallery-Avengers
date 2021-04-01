@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+}
+
+#mycarousel {
+    height: 502px;
+    padding: 50px;
+}
+
+#mycarousel img {
+    height: 350px;
+}
+
+.three {
+    width: 350px;
+    height: 350px;
+}
+
+.one {
+    height: 350px;
+}
+
+.two {
+    height: 350px;
+}
+
+.four {
+    height: 350px;
+}
+
+.five {
+    height: 350px;
+}
